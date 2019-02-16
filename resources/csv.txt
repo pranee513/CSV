@@ -1,0 +1,11 @@
+Category, Part #, Description, UOM, price, discount 	
+135848, SPLS 8.5”x11” Copy Paper, Case, $28.30/Box,$44,7%
+6356236,Books,Books binding, $18.30/Box ,$444,10%
+78734,box,kids box,$38.30/Box ,$244,13%
+826609, Staples Adding Machine, Register and calculator Rolls, 1-ply, 2-1/4”x130’, Each, $0.30/Roll s	
+FMC013, Toilet Paper, $0.45/Each
+78734,laptop,lappy box,$38.30/Box ,$844,23%
+88834,Mouse,wireless mouse box,$38.30/Box ,$17,2%
+66447,Keyboard,wired keyboard box,$38.30/Box ,$20,12%
+9373939,pendrive,80gb box,$38.30/Box ,$24,13%
+

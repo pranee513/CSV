@@ -1,0 +1,11 @@
+#####################
+This Project is reading the records from the CSV file which is located under resources
+To run this Project
+Import the Project in eclipse as java Projet
+ProductCSV.java is the main Class
+Open ProductCSV.java and Run as java Application
+
+you'll get the result as
+unsorted
+Invalid records
+sorted by price
