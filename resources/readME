@@ -5,6 +5,10 @@ Import the Project in eclipse as java Projet
 ProductCSV.java is the main Class
 Open ProductCSV.java and Run as java Application
 
+TO run the Junit test file Add Junit jar
+. Open eclipse ? right click on project and click on property > Build Path > Configure Build Path and add the junit-4.10.jar/junit5 in the libraries using the button Add External Jar.
+
+
 you'll get the result as
 unsorted
 Invalid records
